@@ -1,0 +1,12 @@
+{
+  "name": "html_on_steriods_by_david",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "publish": "surge . grijshol.surge.sh/ && start chrome https://grijshol.surge.sh/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
